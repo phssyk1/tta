@@ -24,4 +24,5 @@
 /log/feature/screenshots/*
 /log/tta_cukes_result/html/*
 /log
-
+#Ignore the project files
+*.project
