@@ -46,8 +46,6 @@ module  DefectAnalysisTestHelper
 			page.should_not	have_error_for_label(label_name)
 		end
 	end
-
-
 end
 
 describe "Defect Analysis Page" , js: true do
